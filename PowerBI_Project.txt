@@ -1,0 +1,21 @@
+PROJECT TITLE: Sales Performance Dashboard (Power BI)
+
+PROJECT OVERVIEW:
+Designed an interactive Power BI dashboard to analyze retail business performance and support data-driven decision making.
+
+KEY FEATURES:
+- Executive KPI tracking (Sales, Profit, Orders, Profit Margin)
+- Monthly sales trend analysis
+- Category and regional performance breakdown
+- Interactive slicers for dynamic filtering
+- Top product performance analysis
+
+BUSINESS VALUE:
+This dashboard enables stakeholders to monitor business performance, identify growth opportunities, and improve operational decisions.
+
+TOOLS & SKILLS:
+Power BI Desktop
+DAX Measures
+Power Query Data Transformation
+Data Visualization
+Business Analytics
